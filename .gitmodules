@@ -1,0 +1,21 @@
+[submodule "plugins/fontfamily"]
+	path = plugins/fontfamily
+	url = https://github.com/projectestac/moodle-atto_fontfamily.git
+[submodule "plugins/fontsize"]
+	path = plugins/fontsize
+	url = https://github.com/andrewnicols/moodle-atto_fontsize.git
+[submodule "plugins/fullscreen"]
+	path = plugins/fullscreen
+	url = https://github.com/dthies/moodle-atto_fullscreen.git
+[submodule "plugins/mediagallery"]
+	path = plugins/mediagallery
+	url = https://github.com/open-lms-open-source/moodle-atto_mediagallery.git
+[submodule "plugins/morebackcolors"]
+	path = plugins/morebackcolors
+	url = https://github.com/ndunand/moodle-atto_morebackcolors.git
+[submodule "plugins/morefontcolors"]
+	path = plugins/morefontcolors
+	url = https://github.com/ndunand/moodle-atto_morefontcolors.git
+[submodule "plugins/styles"]
+	path = plugins/styles
+	url = https://github.com/moodle-an-hochschulen/moodle-atto_styles.git
